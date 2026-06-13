@@ -409,6 +409,12 @@
           <!-- formulario de contacto interactivo -->
           <div class="contact-form card">
             <form id="portfolio-form" action="#" method="POST">
+              <!-- Configuración Web3Forms para recibir correos reales -->
+              <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE">
+              <input type="hidden" name="subject" value="Nuevo mensaje de contacto - Portfolio">
+              <input type="hidden" name="from_name" value="Portfolio Carlos Padrón">
+              <!-- Honeypot para evitar spam de bots -->
+              <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
               <div class="form-group">
                 <label for="name" data-key="form_name_label">Nombre</label>
                 <input type="text" id="name" name="name" required placeholder="Tu nombre...">

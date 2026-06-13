@@ -1,6 +1,6 @@
 // Configuración del endpoint de formulario (ej. Formspree o Web3Forms)
 // Reemplaza esto con tu URL de endpoint cuando registres tu formulario
-const FORM_ENDPOINT = ""; 
+const FORM_ENDPOINT = "https://api.web3forms.com/submit"; 
 
 // traducciones del portfolio en español e inglés
 const translations = {
