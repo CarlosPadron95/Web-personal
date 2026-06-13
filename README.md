@@ -12,7 +12,7 @@
 
 | | URL |
 |---|---|
-| 🖥️ **Frontend** | [carlospadron95.github.io/web-personal-cloudfare](https://carlospadron95.github.io/web-personal-cloudfare/) |
+| 🖥️ **Frontend** | [carlospadron95.github.io/Web-personal](https://carlospadron95.github.io/Web-personal/) |
 
 ---
 
