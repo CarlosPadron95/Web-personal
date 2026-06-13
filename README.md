@@ -1,4 +1,4 @@
-# 🚀 Carlos Padrón: Personal Portfolio
+# 🚀 Personal Portfolio
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,14 +25,14 @@
 <a name="español"></a>
 ## Descripción (Español)
 
-Sitio web personal y portafolio profesional interactivo de Carlos Padrón, diseñado con un estilo editorial brutalista y con soporte bilingüe nativo.
+Sitio web personal y portafolio profesional interactivo con soporte bilingüe nativo.
 
 ### 📋 Descripción
 
 Esta aplicación permite:
-- **Presentar** el perfil profesional, servicios y trayectoria de Carlos Padrón como desarrollador Full-Stack.
+- **Presentar** el perfil profesional, servicios y trayectoria como desarrollador Full-Stack.
 - **Mostrar** proyectos destacados con enlaces directos a sus respectivos repositorios y demostraciones en vivo.
-- **Listar** habilidades técnicas y certificaciones ordenadas estratégicamente para reclutadores.
+- **Listar** habilidades técnicas y certificaciones.
 - **Contactar** mediante un formulario interactivo con validación de datos y envío real de correos a través de la API de Web3Forms.
 - **Alternar** el idioma de todo el sitio entre español e inglés de manera dinámica, persistiendo la selección del usuario.
 
@@ -51,14 +51,14 @@ Esta aplicación permite:
 <a name="english"></a>
 ## Description (English)
 
-Personal website and interactive professional portfolio of Carlos Padrón, designed with a brutalist editorial style and featuring native bilingual support.
+Personal website and interactive professional portfolio featuring native bilingual support.
 
 ### 📋 Description
 
 This application allows users to:
-- **Present** Carlos Padrón's professional profile, services, and career path as a Full-Stack developer.
+- **Present** professional profile, services, and career path as a Full-Stack developer.
 - **Showcase** highlighted projects with direct links to their repositories and live demos.
-- **List** technical skills and certifications organized strategically for recruiters.
+- **List** technical skills and certifications.
 - **Contact** through an interactive form with data validation and real email delivery via Web3Forms API.
 - **Toggle** the site's language dynamically between Spanish and English, persisting the user's preference.
 
