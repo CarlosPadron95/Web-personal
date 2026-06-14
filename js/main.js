@@ -182,9 +182,9 @@ document.addEventListener("DOMContentLoaded", () => {
       
       // cambia el icono de lucide al abrir/cerrar
       if (isVisible) {
-        menuIcon.setAttribute("data-lucide", "menu");
+        menuToggle.innerHTML = '<i data-lucide="menu"></i>';
       } else {
-        menuIcon.setAttribute("data-lucide", "x");
+        menuToggle.innerHTML = '<i data-lucide="x"></i>';
       }
       lucide.createIcons();
     });
@@ -195,7 +195,7 @@ document.addEventListener("DOMContentLoaded", () => {
       link.addEventListener("click", () => {
         mobileNav.style.display = "none";
         menuToggle.setAttribute("aria-expanded", "false");
-        menuIcon.setAttribute("data-lucide", "menu");
+        menuToggle.innerHTML = '<i data-lucide="menu"></i>';
         lucide.createIcons();
       });
     });

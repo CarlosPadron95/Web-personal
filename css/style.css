@@ -44,6 +44,7 @@
 
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 body {
@@ -210,8 +211,8 @@ button, input, textarea {
 }
 
 .logo-img {
-  height: 38px;
-  width: 38px;
+  height: 52px;
+  width: 52px;
   object-fit: contain;
 }
 
@@ -1020,6 +1021,27 @@ button, input, textarea {
 }
 
 @media (max-width: 768px) {
+  .container {
+    padding: 0 16px;
+  }
+  .nav-container {
+    padding: 10px 12px;
+  }
+  .logo {
+    font-size: 1.3rem;
+    gap: 6px;
+  }
+  .logo-img {
+    height: 30px;
+    width: 30px;
+  }
+  .nav-actions {
+    gap: 8px;
+  }
+  .lang-btn {
+    padding: 4px 8px;
+    font-size: 0.75rem;
+  }
   .nav-menu {
     display: none;
   }
@@ -1027,10 +1049,22 @@ button, input, textarea {
     display: block;
   }
   .hero-title {
-    font-size: 3.5rem;
+    font-size: 2.8rem;
   }
   .hero-subtitle {
     font-size: 1.1rem;
+  }
+  .about-info {
+    padding: 24px 16px;
+  }
+  .contact-form {
+    padding: 24px 16px;
+  }
+  .service-card {
+    padding: 24px 20px;
+  }
+  .project-card {
+    padding: 24px 20px;
   }
   .projects-grid {
     grid-template-columns: 1fr;
