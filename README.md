@@ -12,7 +12,7 @@
 
 | | URL |
 |---|---|
-| 🖥️ **Frontend** | [carlospadron95.github.io/Web-personal](https://carlospadron95.github.io/Web-personal/) |
+| 🖥️ **Frontend** | https://carlospdev.com/ |
 
 ---
 
