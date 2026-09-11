@@ -717,6 +717,17 @@ button, input, textarea {
   margin-bottom: 12px;
   text-transform: uppercase;
   color: var(--accent-green);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  line-height: 1.2;
+}
+
+.project-card h3 .emoji {
+  display: inline-flex;
+  align-items: center;
+  font-size: 1.6rem;
+  line-height: 1;
 }
 
 .project-desc {
